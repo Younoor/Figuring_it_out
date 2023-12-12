@@ -17,7 +17,7 @@ extension UTType {
 struct Figuring_it_outDocument: FileDocument {
     var text: String
 
-    init(text: String = "Hello, world!") {
+    init(text: String = "Lets do this!!") {
         self.text = text
     }
 
